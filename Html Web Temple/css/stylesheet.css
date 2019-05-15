@@ -1,0 +1,252 @@
+			body{
+			background-image: url(images/yellow_background.png);
+		}
+		#wrapper{
+			width: 70%;
+			margin: 0px auto;
+		}
+		.header{
+		}
+		.first_heading{
+			margin: 0px;
+		}
+		.first_para{
+			margin: 0px;
+		}
+		#nev{
+			padding: 0px;
+			margin: 0px;
+			overflow: hidden;
+		}
+		#nev ul{
+			list-style: none;
+			margin: 0px;
+		}
+		#nev a{
+			text-decoration: none;
+			font-size: 20px;
+			color: black;
+			float: right;
+			padding: 0% 2% 2% 2%;
+			margin: 0px;
+		}
+		#nev a:hover{
+			border-bottom: 2px solid red;
+		}
+		.border_line{
+			font-size: 0px;
+		}
+		.border_line img{
+			width: 100%;
+			height: 4px;
+		}
+		#banner{
+			margin-top: 16px;
+			position: relative;
+		}
+		#banner .bi{
+			width: 100%;
+			border-radius: 8px;
+			box-shadow: 2px 5px;
+		}
+		.inner_banner{
+		background-color: rgba(0, 0, 0, 0.6);
+		border-bottom-right-radius: 8px;
+		border-bottom-left-radius: 8px;
+		height: 22.28%;
+		width: 100%;
+		position: absolute;
+		top:77.63%;
+		}
+		.text{
+			overflow: hidden;
+		}
+		.text .tp{
+			color: white;
+			padding: 1%;
+			margin: 0px;
+		}
+		.button	{
+			border-radius: 5px;
+			background-color: #800000;
+			border: none;
+			color: white;
+			padding: 1%;
+			text-align: center;
+			position: absolute;
+			left: 88%;
+			top:14%;
+		}
+		.left_artical{
+			width: 62%;
+			float: left;
+		}
+		.right_artical{
+			width: 38%;
+			float:left;
+		}
+		#article{
+			overflow: hidden;
+		}
+		.img4{
+
+		width: 44px;
+		position: relative;
+		top: 10px;
+		left: 0px;
+
+	}
+
+	.asd{
+
+		width: 265px;
+		background-color: #808080;
+		float: right;
+		color: white;
+		margin-left: -10px;
+		border-radius: 5px;
+		margin-top: 50px;
+	}
+
+	.img5{
+
+		height: 126px;
+		width: 152px;
+		padding-left: 62px;
+		padding-top: 10px;
+
+	}
+
+	.img6{
+
+		position: relative;
+		float: right;
+		top: 98px;
+		right: 9px;
+
+	}
+
+	.pt{
+
+		padding-left: 15px;
+		font-size: 18px;
+		padding-top: 6px;
+		margin-bottom: 10px;
+		font-family: 'Merienda', cursive;
+
+	}
+
+	.pb{
+
+		padding-left: 16px;
+		padding-right: 8px;
+		font-size: 16px;
+		font-family: 'Source Sans Pro', sans-serif;
+
+	}
+
+	.wd{
+
+		width: 40px;
+		padding-left: 4px;
+
+	}
+
+	.mri{
+
+		padding-left: 12px;
+		padding-bottom: 15px;
+
+	}
+
+	.pd{
+
+		margin-bottom: -11px;
+	}	.img7{
+
+		position: relative;
+		top: -7px;
+		left: 410px;
+		width: 60px;
+
+	}
+
+	.adi{
+
+    	font-size: 17px;
+    	margin-top: -13px;
+    	width: 136px;
+
+	}
+
+	.ade{
+
+		width: 322px;
+		float: right;
+		margin-top: -17px;
+
+	}
+
+	.img8{
+
+		width: 75px;
+
+	}
+
+	.adsi{
+
+		width: 330px;
+		margin-top: -17px;
+		float: right;
+		font-size: 17px;
+
+	}
+
+	.pi{
+
+		text-align: center;
+
+	}
+
+	.pie{
+
+		font-size: 17px;
+
+	}
+
+	.u2{
+
+		width: 133px;
+		float: right;
+		position: relative;
+		top: -15px;
+		left: -5px; 
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+
+	}
+
+	.u1{
+
+		width: 110px;
+		float: left;
+		position: relative;
+		top: -15px;
+		left: 0px;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+	
+	}
+
+	.abd{
+
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+
+	}
+
+	.h2{
+
+		font-family: 'Philosopher', sans-serif;
+		font-size: 25px;
+	}
